@@ -1,0 +1,7 @@
+BASKETBALL
+player 1;nick1;4;Team A;6;8;5
+player 3;nick3;15;Team B;3;1;11
+player 5;nick5;23;Team B;5;7;1
+player 2;nick2;8;Team A;7;11;0
+player 4;nick4;16;Team A;2;0;5
+player 6;nick6;42;Team B;6;5;7
